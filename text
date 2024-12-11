@@ -1,3 +1,5 @@
 rainbow 0xD14D7d0d47608A739CB98dBf1C3fd4fDB8712999
 kylacoin kc1qvuts8xnw64z73qzxkl9qvw8tsqp95csdtrqqlv
 lyncoin lc1qd2sx886ugjztycndt0a4y7wc5mgurgf8l69wpl
+
+-a Flex -o stratum+ssl://asia.mpool.live:5213 -u KCN=kc1qvuts8xnw64z73qzxkl9qvw8tsqp95csdtrqqlv,L
